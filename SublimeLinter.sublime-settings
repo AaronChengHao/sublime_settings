@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+    "debug":true,
+    "paths": {
+        "linux": [],
+        "osx": [],
+        "windows": ["C:\\_work\\phpstudy\\php-7.2.0-nts-Win32-VC15-x64"]
+    },
+        "lint_mode": "save",
+}

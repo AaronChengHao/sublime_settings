@@ -5,16 +5,22 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"BracketHighlighter",
+		"ColorPicker",
 		"Compare Side-By-Side",
 		"ConvertToUTF8",
 		"Emmet",
 		"Git",
+		"GitGutter",
 		"Github Tools",
 		"HexViewer",
 		"Package Control",
 		"PlainTasks",
 		"SideBarEnhancements",
+		"Sublimall",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Terminal",
 		"TrailingSpaces",
 		"WordCount"
