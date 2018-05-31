@@ -1,0 +1,288 @@
+
+** 2018-05-25 16:55:51.476103 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r18.05.19-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-05-25 16:55:51.492146 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-05-25 17:32:04.980169 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:06.683787 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:08.532127 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:08.794282 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:09.150472 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:14.844719 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:15.886289 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:16.278824 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:16.403287 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:16.620813 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:29.981227 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:30.322314 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:31.072917 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:31.606295 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:36.606330 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:37.545205 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:42.076227 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:32:45.294897 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:03.477908 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:07.464171 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:08.230904 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:10.260319 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:14.666973 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:19.466094 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:19.557837 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:19.715388 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:19.918594 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:20.028217 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:20.526105 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:23.245614 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:23.339864 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:23.701501 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:23.854652 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:23.948960 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:33:24.089365 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:36:40.045785 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:36:58.104906 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:36:59.543720 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:07.260405 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:07.588518 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:08.889354 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:09.213551 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:09.385392 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:09.542734 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:11.435431 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:11.979795 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:41.762090 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:41.948842 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:44.058050 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:44.165836 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:44.371602 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:44.499118 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:45.795173 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:46.573505 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:46.765656 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:47.919236 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:37:48.479646 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:47:03.431654 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:47:16.761698 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:47:17.185157 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\_work\develop_kit\SublimeText3\Data\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.05.19-1_go?.exe`
+--------------------------------
+
+** 2018-05-25 17:48:17.933023 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2018-05-25 17:48:18.252873 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2018-05-25 17:48:18.418814 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2018-05-25 17:48:20.690350 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2018-05-25 17:48:21.502007 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2018-05-25 17:48:22.248991 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2018-05-25 17:48:23.151891 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+Gocode pkg: "mathapp"
+Gocode env: gocode.margoEnv{LibPath:"C:\\_work\\language_kit\\go\\pkg\\windows_amd64;C:\\_work\\language_kit\\mygo\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\_work\\language_kit\\go", GOPATH:"C:\\_work\\language_kit\\mygo", InstallSuffix:""}
+Gocode pkg: "test"

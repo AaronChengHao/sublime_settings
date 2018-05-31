@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"enable_live_count": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
